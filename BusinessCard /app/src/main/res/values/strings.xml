@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="Name">Rayyan Zafar Jaffery</string>
+    <string name="Designation">Android Developer</string>
+    <string name="Email">rzjaffery7@gmail.com</string>
+    <string name="Social_Handle">rzjaffery</string>
+    <string name="Phone_number">+92 333 1374535</string>
+</resources>
